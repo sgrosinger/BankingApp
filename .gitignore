@@ -1,0 +1,9 @@
+.git
+*.suo
+.suo
+.vs
+*.cache
+*.dll
+*.pdb
+
+
